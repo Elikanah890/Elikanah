@@ -9,7 +9,7 @@ $result = $conn->query($sql);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CRUD Application</title>
+    <title>CRUD Operation done</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
