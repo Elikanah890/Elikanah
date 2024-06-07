@@ -22,7 +22,7 @@ $result = $conn->query($sql);
             <th>Last Name</th>
             <th>Email</th>
             <th>Gender</th>
-            <th>Action</th>
+            <th>Actions</th>
         </tr>
         <?php
         if ($result->num_rows > 0) {
