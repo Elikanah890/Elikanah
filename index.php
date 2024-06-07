@@ -20,7 +20,7 @@ $result = $conn->query($sql);
             <th>ID</th>
             <th>First Name</th>
             <th>Last Name</th>
-            <th>Email</th>
+            <th>Emails</th>
             <th>Gender</th>
             <th>Actions</th>
         </tr>
